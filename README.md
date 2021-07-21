@@ -1,2 +1,2 @@
 # firstFlaskApp
-Simple to do list CRUD flask app
+Simple to-do list CRUD flask app
